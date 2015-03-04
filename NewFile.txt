@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 rlg;'
 pr;gr
 ap[]
+=======
+efkl;kje;k;lk
+>>>>>>> master
